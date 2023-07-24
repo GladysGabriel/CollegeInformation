@@ -1,7 +1,7 @@
 package org.college;
 public class College {
 	private void collegeName() {
-		System.out.println("SRM");
+		System.out.println("AAMEC");
 	}
     private void collegeCode() {
 		System.out.println("8204");
